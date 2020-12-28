@@ -17,6 +17,6 @@ The train and test dataset contains a text column with the review and a label co
 
 or 
 
-```linux
+```bash
 pip install -r requirements.txt
 ```
