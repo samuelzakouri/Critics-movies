@@ -8,10 +8,15 @@ The train and test dataset contains a text column with the review and a label co
 
 ## Requirements
 
+* `Numpy`
+* `Pandas`
+* `Scikit-learn`
+* `Wordcloud`
+* `Matplotlib`
+* `Spacy`
+
+or 
+
 ```linux
 pip install -r requirements.txt
 ```
-
-## Notebook
-
-The notebook contains 
