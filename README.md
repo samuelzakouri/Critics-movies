@@ -8,7 +8,7 @@ The train and test dataset contains a text column with the review and a label co
 
 ## Requirements
 
-'''python
+```linux
 pip install -r requirements.txt
-'''
+```
 
