@@ -1,2 +1,3 @@
-# Critics-movies
-Sentiment analysis of movies reviews
+# Sentiment analysis of movies reviews
+
+### Data set
