@@ -1,4 +1,4 @@
-# Sentiment analysis of movies reviews
+# Sentiment Analysis of Movies Reviews
 
 I use and compare various different methods for sentiment analysis on movies reviews (binary classification problem).
 
@@ -12,3 +12,6 @@ The train and test dataset contains a text column with the review and a label co
 pip install -r requirements.txt
 ```
 
+## Notebook
+
+The notebook contains 
